@@ -1,0 +1,13 @@
+name: stock_analyzer_app
+title: stock_analyzer_app
+username:
+account: bbluhm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9337190
+bundleId: 7366560
+url: https://bbluhm.shinyapps.io/stock_analyzer_app/
+when: 1687265592.09949
+lastSyncTime: 1687265592.0995
+asMultiple: FALSE
+asStatic: FALSE
